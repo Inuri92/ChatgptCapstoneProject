@@ -2,7 +2,6 @@
 # by Inuri Muthukumarana
 # Last Update: 2022-08-07
 
-from transformers import pipeline
 import requests
 import json
 import openai
